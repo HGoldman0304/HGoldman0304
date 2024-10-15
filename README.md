@@ -3,7 +3,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Ice Cream Truck POS System](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Ice Cream Truck POS System](https://github.com/HGoldman0304/Ice-Cream-Truck-POS)
   - [College Fee Calculator](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>MySQL</b>
   - [CASL Soccer League Database](https://github.com/joshmadakor1/Sentinel-Lab)
