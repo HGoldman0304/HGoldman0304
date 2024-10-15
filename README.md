@@ -6,9 +6,10 @@
   - [Ice Cream Truck POS System](https://github.com/HGoldman0304/Ice-Cream-Truck-POS)
   - [College Fee Calculator](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>MySQL</b>
-  - [CASL Soccer League Database](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Using Sakila Schema](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Creating a new Schema]
 
-<h2>Project Management Projects</h2>
+<h2>Project Management Projects:</h2>
 
 - [Project Management Schedule for System Assessment](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
